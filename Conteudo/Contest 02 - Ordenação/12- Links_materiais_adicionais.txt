@@ -1,0 +1,17 @@
+Links para estudo para o contest de ordenação, preparado pelo time !false:
+
+O repositório do PET 
+https://github.com/PET-SI-UFU/Materias/tree/main/ED-II/codigos/ordenacao
+
+O material do GeeksforGeeks
+https://www.geeksforgeeks.org/merge-sort/?ref=gcse
+
+O material do Neps
+https://neps.academy/br/course/programacao-basica-(codcad)/lesson/ordenacao---parte-1
+
+
+Time !false
+ Celso Emiliano Borges Cintra
+ Maycon Douglas Batista dos Santos
+ Murielly Oliveira Nascimento
+
